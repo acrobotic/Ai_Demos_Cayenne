@@ -22,4 +22,4 @@ SOFTWARE.
 
 Ai_Demos_Cayenne is the copyright (2015) of ACROBOTIC Industries and released 
 under the MIT license.  See more details at its homepage:
-https://github.com/acrobotic/Ai_Demos_ESP8266
+https://github.com/acrobotic/Ai_Demos_Cayenne
